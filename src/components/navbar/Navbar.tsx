@@ -30,7 +30,7 @@ export const Navbar: React.FC = () => {
                       />
                     </Link>
                   </div>
-                  <div className="hidden lg:block lg:mx-auto lg:w-[893px] 2xl:w-[993px]">
+                  <div className="hidden lg:block lg:mx-auto lg:w-[793px] 2xl:w-[893px]">
                     <div className="flex text-dark justify-between">
                       <Link
                         to={"#"}
